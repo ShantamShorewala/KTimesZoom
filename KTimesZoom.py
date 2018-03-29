@@ -7,8 +7,6 @@ pic.show("Original")
 copy=np.asarray(pic)
 
 list1=copy.tolist()
-list4=copy.tolist()
-list5=copy.tolist()
 
 height=len(list1)
 width=len(list1[1])
